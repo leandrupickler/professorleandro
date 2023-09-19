@@ -14,12 +14,12 @@ body {
   }
   
   .page-title {
-    color: #ffffff;
+    color: #000000;
     margin: 0 0 5px;
   }
   
   .page-subtitle {
-    color: #ffffff;
+    color: #000000;
     margin-top: 5px;
   }
   
@@ -50,7 +50,7 @@ body {
   
   .form-wrapper button {
     border: 0;
-    color: #ffffff;
+    color: #000000;
     background: #DA1E26;
     font-weight:bold;
     padding: 15px 20px;
