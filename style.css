@@ -11,8 +11,8 @@
     width: 400px;
     border: 1px solid var(--bege1);
     border-radius: 2px;
-    padding: 400px;
-    margin: 200px;
+    padding: 40px;
+    margin: 20px;
 }
 
 
@@ -122,7 +122,7 @@ body {
 }
 
 .icon-size {
-    font-size: 10px;
+    font-size: 100px;
 }
 
 .flex {
