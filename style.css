@@ -8,11 +8,11 @@
 
 #box {
     background-color: var(--branco);
-    width: 900px;
+    width: 400px;
     border: 1px solid var(--bege1);
     border-radius: 2px;
-    padding: 40px;
-    margin: 20px;
+    padding: 400px;
+    margin: 200px;
 }
 
 
